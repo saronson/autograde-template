@@ -1,3 +1,7 @@
+import org.junit.*;
+import org.junit.After;
+import org.junit.Test;
+import static org.junit.Assert.*;
 import java.io.*;
 
 public class TestHello //extends junit.framework.TestCase
